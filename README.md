@@ -32,6 +32,6 @@
 ### URL - /api/user-details/:email
 ###Method - GET 
 
-### BASE URL : https://password-reset-back-end-4g0m.onrender.com/
+### BASE URL : https://password-reset-back-end-xxzi.onrender.com
 
 ## POSTMAN DOCUMENTATION : https://documenter.getpostman.com/view/34908360/2sA3QzYTDG
