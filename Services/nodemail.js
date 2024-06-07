@@ -22,7 +22,7 @@ export const mail = async (userEmail, sub, body) => {
       from: `"Praveen Kumar" <${process.env.MY_APP_EMAIL}>`,
       to: userEmail,
       subject: `${sub}`,
-      html: `Your account reset password link : <a href= ${body} }>${body}</a></p>
+      html: `Your account reset password link : <a href= ${body} } >${body}</a></p>
             <p>It will expire within 12 hours</p>
             <p><i>Please don't reply to this email</i></p>
             <p>Thank you!</p>`,
